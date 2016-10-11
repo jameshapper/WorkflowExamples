@@ -4,6 +4,7 @@ At the moment, I just want to try markdown
 const jim = 'jim';
 let age = 100;
 ```
+![This is for blind users](http://unsplash.it/500/500?=random "This is my random image")
 
 I'll edit this to see what happens. I am looking for prose Diff or whatever.
 
